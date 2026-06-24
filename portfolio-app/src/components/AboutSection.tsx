@@ -60,7 +60,7 @@ export default function AboutSection() {
                   className="object-cover object-top transition-all duration-500 ease-in-out group-hover:scale-105"
                 />
               </div>
-              <div className="absolute -bottom-1 left-1/2 -translate-x-1/2 bg-cyber-primary/10 border border-cyber-primary/30 text-cyber-primary text-[9px] font-mono px-2 py-0.5 rounded uppercase tracking-widest whitespace-nowrap shadow-[0_0_8px_rgba(0,240,255,0.2)] animate-pulse">
+              <div className="absolute -bottom-5 left-1/2 -translate-x-1/2 bg-[#040406] border border-cyber-primary/50 text-cyber-primary text-[9px] font-mono px-2 py-0.5 rounded uppercase tracking-widest whitespace-nowrap shadow-[0_0_8px_rgba(0,240,255,0.2)] animate-pulse z-20">
                 OPEN TO WORK
               </div>
             </div>
